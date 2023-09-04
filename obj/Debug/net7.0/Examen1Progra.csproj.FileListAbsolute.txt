@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\bin\Debug\net7.0\Examen1Progra.exe
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\bin\Debug\net7.0\Examen1Progra.deps.json
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\bin\Debug\net7.0\Examen1Progra.runtimeconfig.json
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\bin\Debug\net7.0\Examen1Progra.dll
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\bin\Debug\net7.0\Examen1Progra.pdb
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\obj\Debug\net7.0\Examen1Progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\obj\Debug\net7.0\Examen1Progra.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\obj\Debug\net7.0\Examen1Progra.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\obj\Debug\net7.0\Examen1Progra.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\obj\Debug\net7.0\Examen1Progra.dll
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\obj\Debug\net7.0\refint\Examen1Progra.dll
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\obj\Debug\net7.0\Examen1Progra.pdb
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\obj\Debug\net7.0\Examen1Progra.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Documentos\Examen1Progra\obj\Debug\net7.0\ref\Examen1Progra.dll
